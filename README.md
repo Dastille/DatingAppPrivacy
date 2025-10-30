@@ -254,7 +254,13 @@ Suggested inclusions:
 
 ---
 
-## References (to be added)
+## References
+
+## 13. References
+
+- Bumble Privacy Policy (2025): https://bumble.com/en/privacy
+- PIPEDA Principle 4.9: https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/
+- Zuboff, S. (2019). *The Age of Surveillance Capitalism*. Public Affairs.
 
 This section will include citations for:
 
